@@ -4,7 +4,7 @@ Username: yazhini
 
 password: yazhini@123
 
-email id: yazhiniraja@gmail.com
+email id: yazhiniraja1412@gmail.com
 
 Case study question: https://drive.google.com/file/d/1vJQfSupRLpcWhaSv4PBCWQhhSusvp7aQ/view?usp=sharing
 
